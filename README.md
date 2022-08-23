@@ -1,3 +1,3 @@
 # Micro-Credential
 
-An accumulation of notes, exercise, projects from summer Microcredentials class
+An accumulation of notes, exercises, projects from summer Microcredentials 2022 class. It was an accelerated course.
